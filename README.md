@@ -29,3 +29,6 @@ pip install opencv-python numpy matplotlib pathlib
 
 # Run Program
 python lane_detect.py
+
+#Pilih nomor 2 lalu isi dengan
+<nama_video>.mp4
