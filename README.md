@@ -17,7 +17,7 @@ mkdir lane-detection
 cd lane-detection
 
 # Buat virtual environment
-python -m venv venv
+python -m venv <nama venv>
 
 # Aktivasi virtual environment
 # Windows:
